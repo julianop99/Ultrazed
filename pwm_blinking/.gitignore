@@ -1,0 +1,11 @@
+# Vivado / Vitis
+*.log
+*.jou
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+*.str
+*.tmp
+.Matlab_HDL_Coder_pwm_dimmer/

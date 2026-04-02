@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:F:/Xilinx/Projects/pwm_led_blinking/pwm_led_blinking.srcs/constrs_1/imports/pwm_ultrazed/pwm.xdc rfile:../../../pwm_led_blinking.srcs/constrs_1/imports/pwm_ultrazed/pwm.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:8 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN N4 [get_ports clk]
+set_property src_info {type:XDC file:1 line:17 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN R7 [get_ports Outport]
+set_property src_info {type:XDC file:1 line:24 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN R2 [get_ports reset]
